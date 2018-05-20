@@ -1,0 +1,10 @@
+C:\Users\Anıl Yetişgin\Desktop\Kendini geliştir\Asp.net\SSHDeneme\SSHDeneme\bin\Debug\SSHDeneme.exe.config
+C:\Users\Anıl Yetişgin\Desktop\Kendini geliştir\Asp.net\SSHDeneme\SSHDeneme\bin\Debug\SSHDeneme.exe
+C:\Users\Anıl Yetişgin\Desktop\Kendini geliştir\Asp.net\SSHDeneme\SSHDeneme\bin\Debug\SSHDeneme.pdb
+C:\Users\Anıl Yetişgin\Desktop\Kendini geliştir\Asp.net\SSHDeneme\SSHDeneme\bin\Debug\Renci.SshNet.dll
+C:\Users\Anıl Yetişgin\Desktop\Kendini geliştir\Asp.net\SSHDeneme\SSHDeneme\obj\Debug\SSHDeneme.FormSSHMain.resources
+C:\Users\Anıl Yetişgin\Desktop\Kendini geliştir\Asp.net\SSHDeneme\SSHDeneme\obj\Debug\SSHDeneme.Properties.Resources.resources
+C:\Users\Anıl Yetişgin\Desktop\Kendini geliştir\Asp.net\SSHDeneme\SSHDeneme\obj\Debug\SSHDeneme.csproj.GenerateResource.Cache
+C:\Users\Anıl Yetişgin\Desktop\Kendini geliştir\Asp.net\SSHDeneme\SSHDeneme\obj\Debug\SSHDeneme.exe
+C:\Users\Anıl Yetişgin\Desktop\Kendini geliştir\Asp.net\SSHDeneme\SSHDeneme\obj\Debug\SSHDeneme.pdb
+C:\Users\Anıl Yetişgin\Desktop\Kendini geliştir\Asp.net\SSHDeneme\SSHDeneme\obj\Debug\SSHDeneme.csprojResolveAssemblyReference.cache

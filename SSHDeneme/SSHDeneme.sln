@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSHDeneme", "SSHDeneme\SSHDeneme.csproj", "{98F6C1F5-C526-49C5-ABA7-9FEE06A0FAD2}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SSHDenemeSetup", "..\..\..\SSHCommand\SSHCommand.vdproj", "{B8D0908B-F2C7-4C0C-9037-052738E7B570}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SSH Connect", "SSH Connect\SSH Connect.vdproj", "{79A9CF7A-9168-40C7-AC46-091A4C0D4BA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98F6C1F5-C526-49C5-ABA7-9FEE06A0FAD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98F6C1F5-C526-49C5-ABA7-9FEE06A0FAD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98F6C1F5-C526-49C5-ABA7-9FEE06A0FAD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98F6C1F5-C526-49C5-ABA7-9FEE06A0FAD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8D0908B-F2C7-4C0C-9037-052738E7B570}.Debug|Any CPU.ActiveCfg = Debug
+		{B8D0908B-F2C7-4C0C-9037-052738E7B570}.Release|Any CPU.ActiveCfg = Release
+		{79A9CF7A-9168-40C7-AC46-091A4C0D4BA4}.Debug|Any CPU.ActiveCfg = Debug
+		{79A9CF7A-9168-40C7-AC46-091A4C0D4BA4}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
